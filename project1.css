@@ -1,0 +1,38 @@
+.clinic{
+    margin: 0 0 0 20vw;
+}
+.s{
+    padding: 0 0 0 55vw;
+}
+footer
+{
+    background-color: #659DBD;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+}
+.can{
+    padding: 0 0 0 50px;
+}
+.drop:hover>.drop:menu{
+display: block;
+}
+.p,
+.q,
+.r{
+    padding: 0 5px 0 0;
+}
+#navbar{
+    position: sticky;
+}
+.btn{
+    height: 100%;
+    width: 100%;
+    outline: none;
+    border: none;
+    padding: 0 30px;
+    font-size: 16px;
+    font-weight: 500;
+    border-bottom: 2px solid rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+    background-color: white;
+}
